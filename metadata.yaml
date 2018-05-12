@@ -1,0 +1,26 @@
+_repo: A-Complete-List-of-the-S.--amp--C.-Series-of-Books-by-E.--amp--F.-N.-Spon-January-1912_43384
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43384-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: E. & F. N. Spon
+    gutenberg_agent_id: '42093'
+    url: http://www.gutenberg.org/2009/agents/42093
+description: ''
+gutenberg_issued: '2013-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'E. & F. N. Spon -- Catalogs'
+- !lcc 'Z'
+- !lcsh 'Publishers'' catalogs -- England -- London'
+title: A Complete List of the Books Included in the S. & C. Series of Elementary Manuals
+  for Mechanics and Students published by E. & F. N. Spon, Ltd., London. January 1912
+url: http://www.gutenberg.org/ebooks/43384
